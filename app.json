@@ -7,9 +7,9 @@
         "merge",
         "bot"
     ],
-    "repository": "https://github.com/Conan830/Conan-Video-Merger_bot",
-    "website": "https://telegram.dog/TheTeleRoid",
-    "success_url": "https://t.me/TeleRoid_VideoMergeBot",
+    "repository": "https://github.com/Anuragben10/Merge03",
+    "website": "https://telegram.dog/NUMBER03ANURAG",
+    "success_url": "https://t.me/Ben_muxbot",
     "env": {
         "API_ID": {
             "description": "Get this value from my.telegram.org or @NUMBER03ANURAG"
