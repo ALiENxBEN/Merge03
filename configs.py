@@ -1,4 +1,4 @@
-# (c) @AbirHasan2005 | @PredatorHackerzZ
+# (c) @NUMBER03ANURAG | @NUMBER03ANURAG
 
 import os
 
@@ -25,9 +25,9 @@ You Can Use Me To Merge Multiple Videos in One with the Given Video Formats.
 
 Check /about to Know More About Me.
 
-Made With ❤ By @TheTeleRoid.
+Made With ❤ By @NUMBER03ANURAG.
 """
-    CAPTION = "Video Merged By @{}\n\nMade With ❤ By @TheTeleRoid"
+    CAPTION = "Video Merged By @{}\n\nMade With ❤ By @NUMBER03ANURAG"
     PROGRESS = """
 ➠ Percentage : {0}%
 
@@ -40,15 +40,15 @@ Made With ❤ By @TheTeleRoid.
 ➠ ETA : {4}
 """
     ABOUT_TEXT = """
-<b>Mʏ ɴᴀᴍᴇ : <a href='http://t.me/TeleRoid_VideoMerge_Bot'>ᴜᴘʟᴏᴀᴅᴇʀ ʙᴏᴛ</a></b>
+<b>Mʏ ɴᴀᴍᴇ : <a href='http://t.me/NUMBER03ANURAG'>ᴜᴘʟᴏᴀᴅᴇʀ ʙᴏᴛ</a></b>
 
-<b>Cʜᴀɴɴᴇʟ : <a href='https://t.me/TeleRoidGroup'>@TeleRoidGroup</a></b>
+<b>Cʜᴀɴɴᴇʟ : <a href='https://t.me/NUMBER03ANURAG'>@NUMBER03ANURAG</a></b>
 
-<b>Sᴜᴘᴘᴏʀᴛ : <a href='https://t.me/TeleRoid14'>@TeleRoid14</a></b>
+<b>Sᴜᴘᴘᴏʀᴛ : <a href='https://t.me/NUMBER03ANURAG'>NUMBER03ANURAG</a></b>
 
-<b>Vᴇʀꜱɪᴏɴ : <a href='https://t.me/joinchat/t1ko_FOJxhFiOThl'>2.0 ʙᴇᴛᴀ</a></b>
+<b>Vᴇʀꜱɪᴏɴ : <a href='https://t.me/NUMBER03ANURAG'>2.0 ʙᴇᴛᴀ</a></b>
 
-<b>Sᴏᴜʀᴄᴇ : <a href='https://github.com/PredatorHackerzZ'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
+<b>Sᴏᴜʀᴄᴇ : <a href='https://github.com'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
 
 <b>Sᴇʀᴠᴇʀ : <a href='https://heroku.com/'>ʜᴇʀᴏᴋᴜ</a></b>
 
@@ -56,8 +56,8 @@ Made With ❤ By @TheTeleRoid.
 
 <b>Fʀᴀᴍᴇᴡᴏʀᴋ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢᴀᴍ 1.3.6</a></b>
 
-<b>Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/MoviesFlixers_DL'>Pʀᴇᴅᴀᴛᴏʀ</a></b>
+<b>Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/NUMBER03ANURAG'>Pʀᴇᴅᴀᴛᴏʀ</a></b>
 
-<b>Mᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://t.me/TheTeleRoid'>@TʜᴇTᴇʟᴇRᴏɪᴅ</a></b>
+<b>Mᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://t.me/NUMBER03ANURAG'>@NUMBER03ANURAG</a></b>
 
 """
